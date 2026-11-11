@@ -1,0 +1,15 @@
+Users-service for learning app, TODO list:
+
+Next steps:
+- Define Pydantic for FastAPI user models
+- Implement and document basic user endpoints
+- Connect user-service to React frontend
+- Add PostgreSQL and persistent user management
+- Dockerize and deploy to K8s using Helm
+
+API requirements to pay attention to after:
+- REST API communication with frontend and other services
+- OpenAPI documentation (schemas, examples, errors) - 4%
+- Own PostgreSQL database (database-per-service) - mandatory
+- Docker + Kubernetes deployment - mandatory
+- Health checks, Helm, CI/CD - optional points
